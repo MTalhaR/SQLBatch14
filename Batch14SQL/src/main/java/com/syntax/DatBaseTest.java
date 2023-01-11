@@ -9,6 +9,7 @@ public class DatBaseTest {
         //URL, username, password
 
         // jdbc= java database connectivity
+                 // jdbc:jdbctype://ipaddress:portnumber/db_name
         String url="jdbc:mysql://3.239.253.255:3306/syntaxhrm_mysql";
         String username="syntax_hrm";
         String password="syntaxhrm123";
